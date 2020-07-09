@@ -1,4 +1,4 @@
 # hello-world
 tutorial repository
 
-hi! i'm KHS
+hi! i'm KHS!
